@@ -1,2 +1,2 @@
 # hey everyone my name is Isaac Garibay
-Format: ![sad boys](/images/672884.png)
+![sad boys](/images/672884.png)
